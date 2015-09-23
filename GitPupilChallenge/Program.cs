@@ -29,7 +29,7 @@ namespace Pupil_Challenge
         {
             public string name;
             public int age;
-            public Gender gender;
+            public Gender gender; // m or f or u
             public House house;
 
             public Pupil(string name, int age, Gender gender, House house)
